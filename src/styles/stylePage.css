@@ -1,0 +1,66 @@
+.logo {
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
+.logo p.title{
+    font-weight: 800 !important;
+    font-size: 2em;
+    text-align: center;
+}
+.ant-layout-sider {
+    background: #cdbf90;
+}
+.ant-menu-dark, .ant-menu-dark .ant-menu-sub {
+    color: rgba(255, 255, 255, 0.65);
+    background: #cdbf90;
+}
+.ant-menu-dark .ant-menu-item, .ant-menu-dark .ant-menu-item-group-title, .ant-menu-dark .ant-menu-item > a {
+    color: rgb(0, 0, 0);
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected, .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+    background-color: #72270f;
+}
+.header-icon{
+    float: right;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: right;
+    padding-right: 4%;
+    position: relative;
+}
+.menu-dropdown{
+    margin-right: 5%;
+}
+.container {
+    padding: 24px 16px;
+    background: #fff;
+}
+.title-add {
+    font-weight: 700 !important;
+    font-size: 1.2em;
+    color: #72270f;
+    padding: 10px 20px 10px 25px;
+    margin: 0px;
+    font-style: italic;
+  }
+.add-form{
+    border-radius: 5px;
+    background: #cdbf9033;
+    width:70%;
+}
+.title-submit {
+    font-weight: 700 !important;
+    font-size: 0.8em;
+    color: red;
+    float: right;
+    margin: 35px 0px 30px 30px;
+  }
+.submit-add{
+    float: left;
+    margin: 30px;
+}
+.ant-form-item-label {
+    text-align: left;
+}

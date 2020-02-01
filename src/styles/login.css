@@ -1,0 +1,46 @@
+.row {
+    height: 100vh;
+    position: relative;
+  }
+.bg-image {
+    background-image: url("/assets/login-page-2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+.login-container {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    background-color: #c1a46c;
+  }
+  
+#login .title-container p{
+    display: block;
+  }
+  
+.title-container {
+    width: 100%;
+    text-align: center;
+  }
+  
+#login .title-container p.title{
+    font-weight: 800 !important;
+    font-size: 2em;
+    margin-bottom: 0px;
+    margin-top:100px
+  }
+  
+#login form{
+    width: 100%;
+    background: #cdbf90;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+.title-h2 {
+    font-weight: 800 !important;
+    font-size: 1.2em;
+  }
+.login-form-button {
+    width: 100%;
+    background-color: #72270f;
+  }
