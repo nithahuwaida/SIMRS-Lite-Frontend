@@ -15,7 +15,6 @@ Aplikasi SIMRS Lite bertujuan agar mempermudah proses bisnis dari sebuah rumah s
 
 ## Memulai Aplikasi
  1. Git clone [aplikasi SIMRS Lite](https://github.com/nithahuwaida/SIMRS-Lite-Frontend.git) or download zip
- 2. RESTFul API aplikasi ini dapat dilihat di [RESTFul API SIMRS Lite](https://github.com/nithahuwaida/SIMRS-Lite-Backend.git)
  2. open kode program dengan aplikasi editor (vscode, atom or other)
  3. Jalankan aplikasi dengan memuali mengetikan ``npm install`` and ``npm start`` pada Command Prompt.
 
